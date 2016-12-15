@@ -1,0 +1,4 @@
+Je test des questions?,5,-5;
+Aimes tu le riz?,2,2;
+Préfère tu les pâtes?,-2,-2;
+Ce jeu est-il chiant?,-10,10;

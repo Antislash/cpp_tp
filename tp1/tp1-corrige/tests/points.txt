@@ -1,0 +1,8 @@
+1 2 3 0.33 lolilol
+1 2 3 0.33
+1 2 3 lolilol
+1 2 3
+1 2 0.33 lolilol
+1 0.33
+
+1 2 3 0.33 roflmao
