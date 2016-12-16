@@ -1,13 +1,13 @@
 CC=g++
 CFLAGS=-W -Wall -O3
 LDFLAGS=
-EXEC=complex
-S1SRC= main.cpp
+EXEC=maze
+S1SRC= main.cpp grille.cpp vector2D.cpp
 S1OBJ= $(S1SRC:.cpp=.o)
 
 all: $(EXEC)
 
-complex: $(S1OBJ)
+maze: $(S1OBJ)
 	$(CC) -o $@ $^ $(LDFLAGS)
 
 %.o: %.cpp
